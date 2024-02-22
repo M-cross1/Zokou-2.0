@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "MCROSS-2.0",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,9 +15,9 @@
     "Zokou",
     "whatsapp",
     "whatsapp-bot",
-    "Djalega++"
+    "MCROSS-MD"
   ],
-  "author": "Djalega++",
+  "author": "KÌÑG M-ÇRØSS",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
